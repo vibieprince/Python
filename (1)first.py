@@ -1,0 +1,7 @@
+print('Hello world')
+print(20+50)
+print('20+50')
+print('Hello world, welome from PRINE')
+print('Hello world, welome from PRINCE,80')
+print(10>5)
+print('10<5')
